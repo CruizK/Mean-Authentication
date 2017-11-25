@@ -15,7 +15,7 @@ A simple app that showcases registering and Logging in with JWT tokens and passp
 ![LoggedIn](/pictures/LoggedIn.PNG "LoggedIn")
 
 # Profile
-![Profile](/pictures/Homepage.PNG "Profile")
+![Profile](/pictures/Profile.PNG "Profile")
 
 # Showed on logout
 ![Logout](/pictures/LoggedOut.PNG "Logout")
